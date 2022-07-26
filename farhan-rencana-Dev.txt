@@ -2,9 +2,11 @@ RENCANA FARHAN DEVELOPERS
 
 - BELAJAR BACKEND
   * belajar Php
-     - belajar CRUD
+     - belajar database
+  * belajar Golang
   * belajar laravel
-    - latihan laravel6
+    - laravel framewordk 8
 - MENGUASAI FULLSTACK DEVELOPERS
 - MENJADI SENIOR IT
 - Menjadi CTO
+- awal tahun sudah menguasai frontEnd

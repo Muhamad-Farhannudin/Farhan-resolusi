@@ -2,6 +2,7 @@ RENCANA FARHAN DEVELOPERS
 
 - BELAJAR BACKEND
   * belajar Php
+     - belajar database
   * belajar Golang
   * belajar laravel
     - laravel framewordk 8
